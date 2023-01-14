@@ -1,28 +1,14 @@
-# Cave Game
-A recreation of Cave Game, the earliest version of Minecraft.
+# CGext (Cave Game Extended)
+An extended version of "Cave Game" from Minetest.
 
-## Features
-- Stone and grass nodes.
-- Place & destroy them.
+## New features
+- New nodes such as bricks and planks.
+- Glass and glow nodes.
 - That's about it.
 
 ## Notes
 
-Whilst looking like cobble, stone is infact `minecraft:stone`.
-
-Technical names `minecraft:nnn` and `nnn` are aliases to the "modern" Minecraft names.
+Credits to olive from MinetestDB for the original Cave Game.
 
 Select mapgen `singlenode` for a truly flat world.
 Mapgen v6 unsupported.
-
-##
-[CDB] · [Issues] · [Git]
-
-Game by olive - ISC  
-[Textures by Rollerozxa], based upon [REFI] - CC-BY-SA 4.0  
-
-[REFI]: https://content.minetest.net/packages/MysticTempest/refi_textures/
-[Textures by Rollerozxa]: https://github.com/rollerozxa/minecraftnt-classic/
-[Git]: https://git.minetest.land/olive/cavegame
-[Issues]: https://git.minetest.land/olive/cavegame/issues
-[CDB]: https://content.minetest.net/packages/GoodClover/cavegame/
